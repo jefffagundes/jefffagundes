@@ -29,8 +29,6 @@
  ### Apaixonado por tecnologia e tudo que envolva dados 📊
 
 
- 
-
 
   
   

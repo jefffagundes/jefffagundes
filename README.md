@@ -1,4 +1,4 @@
-### Olá me chamo jefferson fagundes, profissional com mais de 3 anos de experiencia em Planejamento Estratégico tentando construir projetos em python e machine learning.📈
+### Olá me chamo jefferson fagundes, profissional com mais de 3 anos de experiencia em Planejamento Estratégico tentando construir projetos em python e machine learning.📈<br/>
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-fagundes/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jeffersonfg569)

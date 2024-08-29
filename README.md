@@ -26,7 +26,7 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /><br/><br/><br/>
 
- ### Apaixonada por tecnologia e tudo que envolva dados 📊
+ ### Apaixonado por tecnologia e tudo que envolva dados 📊
 
 
  
